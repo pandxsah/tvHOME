@@ -1,0 +1,4 @@
+# Never publish the signing key. Without it future updates cannot be installed over this app.
+*.keystore
+*.jks
+build/
